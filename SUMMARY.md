@@ -24,4 +24,7 @@
   * [/create](league-resources/team-id/create.md)
   * [/delete](league-resources/team-id/delete.md)
   * [/update](league-resources/team-id/update.md)
-* [Page](league-resources/page.md)
+* [/series/:id](league-resources/series-id/README.md)
+  * [/create](league-resources/series-id/create.md)
+  * [/delete](league-resources/series-id/delete.md)
+  * [/update](league-resources/series-id/update.md)
