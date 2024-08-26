@@ -14,6 +14,14 @@
 
 ## LEAGUE RESOURCES
 
-* [/league](league-resources/league.md)
-* [/signup](league-resources/signup.md)
-* [/series](league-resources/series.md)
+* [/league/:id](league-resources/league-id/README.md)
+  * [/teams](league-resources/league-id/teams.md)
+  * [/players](league-resources/league-id/players.md)
+  * [/series](league-resources/league-id/series.md)
+  * [/signup](league-resources/league-id/signup.md)
+* [/team/:id](league-resources/team-id/README.md)
+  * [/players](league-resources/team-id/players.md)
+  * [/create](league-resources/team-id/create.md)
+  * [/delete](league-resources/team-id/delete.md)
+  * [/update](league-resources/team-id/update.md)
+* [Page](league-resources/page.md)
