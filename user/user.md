@@ -21,8 +21,8 @@ If user does not exist it will create it, and send back the created data.
 {% tabs %}
 {% tab title="200" %}
 <pre class="language-json"><code class="lang-json"><strong>{
-</strong>"discordId":""
-"discordAccessToken":""
+</strong>  "discordId":""
+  "discordAccessToken":""
 }
 </code></pre>
 {% endtab %}
@@ -30,8 +30,8 @@ If user does not exist it will create it, and send back the created data.
 {% tab title="401" %}
 ```json
 {
-"errorCode": 401,
-"message": "unauthorized"
+  "error": "unauthorized",
+  "status": 401
 }
 ```
 {% endtab %}
